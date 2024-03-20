@@ -18,7 +18,9 @@ a simple module to compute and convert units between length, area and volume.
 ## Calculation
 
 `Length` * `Length` --> `Area`
+
 `Length` * `Area` --> `Volume`
+
 `Length` * `Length` * `Length` --> `Volume`
 
 ## Example
